@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ponnalavivekreddy
-- 👀 I’m interested in software job...
-- 🌱 I’m currently learning ..java full stack.
+- 👀 I’m interested in software job.
+- 🌱 I’m currently learning Java full stack.
 
 <!---
 Ponnalavivekreddy/Ponnalavivekreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
